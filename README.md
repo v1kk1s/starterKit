@@ -1,2 +1,2 @@
-# startterKit
+# starterKit
 Starter for projects
